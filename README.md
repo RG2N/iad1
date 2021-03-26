@@ -2,4 +2,4 @@
 *this is just the website github for collaboration and updates xdddddd idk what im doing but its working ig lmao haha*
 
 Links:
-- iad1.vectorstudios.tk
+- https://iad1.vectorstudios.tk
